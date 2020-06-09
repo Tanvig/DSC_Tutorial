@@ -1,4 +1,4 @@
-# DSC Tutorial
+# Word Cloud using Yelp dataset
 
 This repository comprises worked out tutorial notebooks for Springboard course.
 
